@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.btth_app_03.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.example.btth_app_03.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-merged_res-31:\\layout_item_appointment.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-main-33:\\layout\\item_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-merged_res-31:\\layout_activity_appointment_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-main-33:\\layout\\activity_appointment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-merged_res-31:\\layout_activity_add_appointment.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.2\\com.example.btth_app_03.app-main-33:\\layout\\activity_add_appointment.xml"
+    }
+]

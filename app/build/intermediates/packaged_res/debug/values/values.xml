@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BTTH_APP_03</string>
+    <style name="Base.Theme.BTTH_APP_03" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        
+    </style>
+    <style name="Theme.BTTH_APP_03" parent="Base.Theme.BTTH_APP_03"/>
+</resources>

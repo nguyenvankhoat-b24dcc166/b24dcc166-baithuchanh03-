@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+id btnAddAppointment
+id btnBack
+id btnDelete
+id btnLogin
+id btn_save
+id date_picker
+id edit_location
+id edit_title
+id etPassword
+id etUsername
+id recyclerView
+id switchReminder
+id switch_reminder
+id time_picker
+id tvDateTime
+id tvError
+id tvLocation
+id tvReminderBadge
+id tvReminderLabel
+id tvReminders
+id tvTime
+id tvTitle
+id tvTotalAppointments
+layout activity_add_appointment
+layout activity_appointment_detail
+layout activity_login
+layout activity_main
+layout item_appointment
+string app_name
+style Base.Theme.BTTH_APP_03
+style Theme.BTTH_APP_03
